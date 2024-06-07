@@ -1,2 +1,4 @@
 # Meta-Analysis
 Meta-Analysis on Mental Toughness and Athletic Performance
+In a comprehensive review and extension of Hsieh et al.'s meta-analysis on mental toughness and athletic performance, this research aims to provide a detailed understanding of their intricate connection. The study synthesizes findings from 16 relevant studies to elucidate how mental toughness influences athletes across various sports contexts. By amalgamating these studies, it reveals a significant positive association (r = 0.36) between mental toughness and athletic performance, highlighting the impact of factors like age, sport category, type, performance measurement, and specific mental toughness dimensions. These findings have meaningful implications for athlete development and training, as they emphasize the importance of nurturing psychological skills to enhance mental toughness and tailoring training programs to optimize performance outcomes based on age, sport category, and type.
+
